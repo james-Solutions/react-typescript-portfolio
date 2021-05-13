@@ -1936,16 +1936,6 @@
     hoist-non-react-statics "^3.3.0"
     redux "^4.0.0"
 
-"@types/react-redux@^7.1.16":
-  version "7.1.16"
-  resolved "https://registry.yarnpkg.com/@types/react-redux/-/react-redux-7.1.16.tgz#0fbd04c2500c12105494c83d4a3e45c084e3cb21"
-  integrity sha512-f/FKzIrZwZk7YEO9E1yoxIuDNRiDducxkFlkw/GNMGEnK9n4K8wJzlJBghpSuOVDgEUHoDkDF7Gi9lHNQR4siw==
-  dependencies:
-    "@types/hoist-non-react-statics" "^3.3.0"
-    "@types/react" "*"
-    hoist-non-react-statics "^3.3.0"
-    redux "^4.0.0"
-
 "@types/react-router-dom@^5.1.3":
   version "5.1.7"
   resolved "https://registry.yarnpkg.com/@types/react-router-dom/-/react-router-dom-5.1.7.tgz#a126d9ea76079ffbbdb0d9225073eb5797ab7271"
@@ -11137,10 +11127,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@~3.7.2:
-  version "3.7.7"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.7.tgz#c931733e2ec10dda56b855b379cc488a72a81199"
-  integrity sha512-MmQdgo/XenfZPvVLtKZOq9jQQvzaUAUpcKW8Z43x9B2fOm4S5g//tPtMweZUIP+SoBqrVPEIm+dJeQ9dfO0QdA==
+typescript@~4.2.4:
+  version "4.2.4"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.2.4.tgz#8610b59747de028fda898a8aef0e103f156d0961"
+  integrity sha512-V+evlYHZnQkaz8TRBuxTA92yZBPotr5H+WhQ7bD3hZUndx5tGOa1fuCgeSjxAzM1RiN5IzvadIXTVefuuwZCRg==
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
